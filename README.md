@@ -12,6 +12,10 @@ This is under development. To do a developmental install. Type
 
 `pip install -e .`
 
+This package requires the following:
+- numpy
+- matplotlib
+
 ### Copyright
 
 Copyright (c) 2020, Xuecheng Shao
