@@ -7,6 +7,11 @@ molecool
 
 A Python package for analyzing and visualizing molecular structures.
 
+
+This is under development. To do a developmental install. Type
+
+`pip install -e .`
+
 ### Copyright
 
 Copyright (c) 2020, Xuecheng Shao
