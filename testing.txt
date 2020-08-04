@@ -1,3 +1,10 @@
-add new file testing.txt
+**********************************
+This is the start of testing.txt
+**********************************
 
+add new file testing.txt
 Add a new line
+
+**********************************
+This is the end of testing.txt
+**********************************
