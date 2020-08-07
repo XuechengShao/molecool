@@ -21,7 +21,7 @@ except:
 
 setup(
     # Self-descriptive entries which should always be present
-    name='molecool',
+    name='molecool-shao',
     author='Xuecheng Shao',
     author_email='shaoxcnmg@gmail.com',
     description=short_description[0],
